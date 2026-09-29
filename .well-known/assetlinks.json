@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.moahbeatlab.jam404",
+    "sha256_cert_fingerprints": ["26:3C:99:4A:57:D2:2C:C3:13:86:C5:67:95:73:82:19:77:A2:C9:6A:DD:30:C5:E6:04:C9:75:63:2A:BB:62:18"]
+  }
+}]
